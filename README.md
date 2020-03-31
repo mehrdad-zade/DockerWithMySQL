@@ -1,4 +1,4 @@
-# Exercise 8.3 - Relational Database
+# - Relational Database
 
 Create a relational database container and create and access the case study database.
 
